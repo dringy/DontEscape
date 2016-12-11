@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 635M (ID=0xde3)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: S:\Game Development\Don't Escape\Build\Win64\Don'tEscape_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.152604 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.910288 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.219543 ms (FindLiveObjects: 0.029897 ms CreateObjectMapping: 0.016510 ms MarkObjects: 0.163319 ms  DeleteObjects: 0.009370 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4264 -> priority: 1 
+  Thread -> id: 3d7c -> priority: 1 
