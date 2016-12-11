@@ -6,3 +6,5 @@ Source Assets are found under /Source Assets.
 Gimp was used for images, LMMS and bfx was used for sound. Fonts were freely available from DaFont.com
 
 Unity Directory is located under /Don't Escape
+
+Ludum Dare Entry: http://ludumdare.com/compo/ludum-dare-37/?uid=89434
