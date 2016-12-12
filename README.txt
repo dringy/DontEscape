@@ -7,4 +7,4 @@ Gimp was used for images, LMMS and bfx was used for sound. Fonts were freely ava
 
 Unity Directory is located under /Don't Escape
 
-Ludum Dare Entry: http://ludumdare.com/compo/ludum-dare-37/?uid=89434
+Ludum Dare Entry: http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=89434
